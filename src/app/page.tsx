@@ -110,7 +110,7 @@ export default function App() {
             letterSpacing: "-0.02em",
           }}
         >
-          Go Patterns & Practices
+          Noob'sGoLearn
         </h1>
         <p
           style={{
@@ -118,7 +118,7 @@ export default function App() {
             fontSize: "clamp(0.875rem, 2.5vw, 1.1rem)",
           }}
         >
-          Comprehensive Go Language Learning Platform
+          For Learning Golang
         </p>
       </header>
 
